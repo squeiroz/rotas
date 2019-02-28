@@ -1,0 +1,24 @@
+{
+  "name": "rotas",
+  "version": "1.0.0",
+  "description": "Projeto baseado no video ngRoute da DevMedia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squeiroz/rotas.git"
+  },
+  "author": "Sanderson Queiroz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/squeiroz/rotas/issues"
+  },
+  "homepage": "https://github.com/squeiroz/rotas#readme",
+  "dependencies": {
+    "angular": "^1.7.7",
+    "angular-route": "^1.7.7",
+    "bootstrap": "^3.3.6"
+  }
+}
